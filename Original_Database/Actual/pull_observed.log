@@ -1,0 +1,39 @@
+INFO: 2021-02-26 15:08:28,248: Program Start
+INFO: 2021-02-26 15:08:29,111: Connected to FTP Server
+INFO: 2021-02-26 15:08:29,322: Pulling Heating Data for 2004
+INFO: 2021-02-26 15:08:30,457: Pulling Heating Data for 2005
+INFO: 2021-02-26 15:08:31,588: Pulling Heating Data for 2006
+INFO: 2021-02-26 15:08:32,725: Pulling Heating Data for 2007
+INFO: 2021-02-26 15:08:33,874: Pulling Heating Data for 2008
+INFO: 2021-02-26 15:08:35,026: Pulling Heating Data for 2009
+INFO: 2021-02-26 15:08:36,161: Pulling Heating Data for 2010
+INFO: 2021-02-26 15:08:37,291: Pulling Heating Data for 2011
+INFO: 2021-02-26 15:08:38,423: Pulling Heating Data for 2012
+INFO: 2021-02-26 15:08:39,556: Pulling Heating Data for 2013
+INFO: 2021-02-26 15:08:40,692: Pulling Heating Data for 2014
+INFO: 2021-02-26 15:08:41,824: Pulling Heating Data for 2015
+INFO: 2021-02-26 15:08:42,956: Pulling Heating Data for 2016
+INFO: 2021-02-26 15:08:44,087: Pulling Heating Data for 2017
+INFO: 2021-02-26 15:08:45,218: Pulling Heating Data for 2018
+INFO: 2021-02-26 15:08:46,352: Pulling Heating Data for 2019
+INFO: 2021-02-26 15:08:47,505: Pulling Heating Data for 2020
+INFO: 2021-02-26 15:08:48,636: Pulling Heating Data for 2021
+INFO: 2021-02-26 15:08:49,666: Pulling Cooling Data for 2004
+INFO: 2021-02-26 15:08:50,816: Pulling Cooling Data for 2005
+INFO: 2021-02-26 15:08:51,950: Pulling Cooling Data for 2006
+INFO: 2021-02-26 15:08:53,115: Pulling Cooling Data for 2007
+INFO: 2021-02-26 15:08:54,277: Pulling Cooling Data for 2008
+INFO: 2021-02-26 15:08:55,409: Pulling Cooling Data for 2009
+INFO: 2021-02-26 15:08:56,540: Pulling Cooling Data for 2010
+INFO: 2021-02-26 15:08:57,670: Pulling Cooling Data for 2011
+INFO: 2021-02-26 15:08:58,821: Pulling Cooling Data for 2012
+INFO: 2021-02-26 15:08:59,971: Pulling Cooling Data for 2013
+INFO: 2021-02-26 15:09:01,143: Pulling Cooling Data for 2014
+INFO: 2021-02-26 15:09:02,280: Pulling Cooling Data for 2015
+INFO: 2021-02-26 15:09:03,411: Pulling Cooling Data for 2016
+INFO: 2021-02-26 15:09:04,543: Pulling Cooling Data for 2017
+INFO: 2021-02-26 15:09:05,675: Pulling Cooling Data for 2018
+INFO: 2021-02-26 15:09:06,806: Pulling Cooling Data for 2019
+INFO: 2021-02-26 15:09:07,938: Pulling Cooling Data for 2020
+INFO: 2021-02-26 15:09:09,072: Pulling Cooling Data for 2021
+INFO: 2021-02-26 15:09:09,900: Program Complete

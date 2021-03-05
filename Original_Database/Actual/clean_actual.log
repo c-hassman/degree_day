@@ -1,0 +1,118 @@
+INFO: 2021-02-26 15:40:29,897: Program Start
+INFO: 2021-02-26 15:40:29,897: Beginning Heating
+INFO: 2021-02-26 15:40:29,898: Cleaning Heating 2004
+INFO: 2021-02-26 15:40:29,917: Cleaning Heating 2005
+INFO: 2021-02-26 15:40:29,938: Cleaning Heating 2006
+INFO: 2021-02-26 15:40:29,957: Cleaning Heating 2007
+INFO: 2021-02-26 15:40:29,976: Cleaning Heating 2008
+INFO: 2021-02-26 15:40:29,994: Cleaning Heating 2009
+INFO: 2021-02-26 15:40:30,013: Cleaning Heating 2010
+INFO: 2021-02-26 15:40:30,032: Cleaning Heating 2011
+INFO: 2021-02-26 15:40:30,050: Cleaning Heating 2012
+INFO: 2021-02-26 15:40:30,070: Cleaning Heating 2013
+INFO: 2021-02-26 15:40:30,089: Cleaning Heating 2014
+INFO: 2021-02-26 15:40:30,108: Cleaning Heating 2015
+INFO: 2021-02-26 15:40:30,126: Cleaning Heating 2016
+INFO: 2021-02-26 15:40:30,147: Cleaning Heating 2017
+INFO: 2021-02-26 15:40:30,165: Cleaning Heating 2018
+INFO: 2021-02-26 15:40:30,186: Cleaning Heating 2019
+INFO: 2021-02-26 15:40:30,205: Cleaning Heating 2020
+INFO: 2021-02-26 15:40:30,224: Cleaning Heating 2021
+INFO: 2021-02-26 15:40:30,232: Writing Heating
+INFO: 2021-02-26 15:40:30,235: Beginning Cooling
+INFO: 2021-02-26 15:40:30,236: Cleaning Cooling 2004
+INFO: 2021-02-26 15:40:30,269: Cleaning Cooling 2005
+INFO: 2021-02-26 15:40:30,288: Cleaning Cooling 2006
+INFO: 2021-02-26 15:40:30,307: Cleaning Cooling 2007
+INFO: 2021-02-26 15:40:30,327: Cleaning Cooling 2008
+INFO: 2021-02-26 15:40:30,347: Cleaning Cooling 2009
+INFO: 2021-02-26 15:40:30,365: Cleaning Cooling 2010
+INFO: 2021-02-26 15:40:30,387: Cleaning Cooling 2011
+INFO: 2021-02-26 15:40:30,406: Cleaning Cooling 2012
+INFO: 2021-02-26 15:40:30,424: Cleaning Cooling 2013
+INFO: 2021-02-26 15:40:30,444: Cleaning Cooling 2014
+INFO: 2021-02-26 15:40:30,462: Cleaning Cooling 2015
+INFO: 2021-02-26 15:40:30,482: Cleaning Cooling 2016
+INFO: 2021-02-26 15:40:30,500: Cleaning Cooling 2017
+INFO: 20INFO: 2021-02-26 15:43:34,379: Program Start
+INFO: 2021-02-26 15:43:34,379: Beginning Heating
+INFO: 2021-02-26 15:43:34,380: Cleaning Heating 2004
+INFO: 2021-02-26 15:43:34,404: Cleaning Heating 2005
+INFO: 2021-02-26 15:43:34,432: Cleaning Heating 2006
+INFO: 2021-02-26 15:43:34,451: Cleaning Heating 2007
+INFO: 2021-02-26 15:43:34,469: Cleaning Heating 2008
+INFO: 2021-02-26 15:43:34,488: Cleaning Heating 2009
+INFO: 2021-02-26 15:43:34,505: Cleaning Heating 2010
+INFO: 2021-02-26 15:43:34,524: Cleaning Heating 2011
+INFO: 2021-02-26 15:43:34,542: Cleaning Heating 2012
+INFO: 2021-02-26 15:43:34,561: Cleaning Heating 2013
+INFO: 2021-02-26 15:43:34,579: Cleaning Heating 2014
+INFO: 2021-02-26 15:43:34,597: Cleaning Heating 2015
+INFO: 2021-02-26 15:43:34,617: Cleaning Heating 2016
+INFO: 2021-02-26 15:43:34,635: Cleaning Heating 2017
+INFO: 2021-02-26 15:43:34,655: Cleaning Heating 2018
+INFO: 2021-02-26 15:43:34,673: Cleaning Heating 2019
+INFO: 2021-02-26 15:43:34,694: Cleaning Heating 2020
+INFO: 2021-02-26 15:43:34,713: Cleaning Heating 2021
+INFO: 2021-02-26 15:43:34,720: Writing Heating
+INFO: 2021-02-26 15:43:34,723: Beginning Cooling
+INFO: 2021-02-26 15:43:34,724: Cleaning Cooling 2004
+INFO: 2021-02-26 15:43:34,744: Cleaning Cooling 2005
+INFO: 2021-02-26 15:43:34,762: Cleaning Cooling 2006
+INFO: 2021-02-26 15:43:34,781: Cleaning Cooling 2007
+INFO: 2021-02-26 15:43:34,798: Cleaning Cooling 2008
+INFO: 2021-02-26 15:43:34,817: Cleaning Cooling 2009
+INFO: 2021-02-26 15:43:34,835: Cleaning Cooling 2010
+INFO: 2021-02-26 15:43:34,854: Cleaning Cooling 2011
+INFO: 2021-02-26 15:43:34,873: Cleaning Cooling 2012
+INFO: 2021-02-26 15:43:34,891: Cleaning Cooling 2013
+INFO: 2021-02-26 15:43:34,909: Cleaning Cooling 2014
+INFO: 2021-02-26 15:43:34,927: Cleaning Cooling 2015
+INFO: 2021-02-26 15:43:34,947: Cleaning Cooling 2016
+INFO: 2021-02-26 15:43:34,964: Cleaning Cooling 2017
+INFO: 2021-02-26 15:43:34,983: Cleaning Cooling 2018
+INFO: 2021-02-26 15:43:35,002: Cleaning Cooling 2019
+INFO: 2021-02-26 15:43:35,020: Cleaning Cooling 2020
+INFO: 2021-02-26 15:43:35,039: Cleaning Cooling 2021
+INFO: 2021-02-26 15:43:35,044: Writing Heating
+INFO: 2021-02-26 15:44:51,636: Program Start
+INFO: 2021-02-26 15:44:51,636: Beginning Heating
+INFO: 2021-02-26 15:44:51,636: Cleaning Heating 2004
+INFO: 2021-02-26 15:44:51,662: Cleaning Heating 2005
+INFO: 2021-02-26 15:44:51,690: Cleaning Heating 2006
+INFO: 2021-02-26 15:44:51,711: Cleaning Heating 2007
+INFO: 2021-02-26 15:44:51,730: Cleaning Heating 2008
+INFO: 2021-02-26 15:44:51,749: Cleaning Heating 2009
+INFO: 2021-02-26 15:44:51,767: Cleaning Heating 2010
+INFO: 2021-02-26 15:44:51,786: Cleaning Heating 2011
+INFO: 2021-02-26 15:44:51,804: Cleaning Heating 2012
+INFO: 2021-02-26 15:44:51,822: Cleaning Heating 2013
+INFO: 2021-02-26 15:44:51,841: Cleaning Heating 2014
+INFO: 2021-02-26 15:44:51,859: Cleaning Heating 2015
+INFO: 2021-02-26 15:44:51,878: Cleaning Heating 2016
+INFO: 2021-02-26 15:44:51,896: Cleaning Heating 2017
+INFO: 2021-02-26 15:44:51,914: Cleaning Heating 2018
+INFO: 2021-02-26 15:44:51,933: Cleaning Heating 2019
+INFO: 2021-02-26 15:44:51,950: Cleaning Heating 2020
+INFO: 2021-02-26 15:44:51,970: Cleaning Heating 2021
+INFO: 2021-02-26 15:44:51,976: Writing Heating
+INFO: 2021-02-26 15:44:51,977: Beginning Cooling
+INFO: 2021-02-26 15:44:51,978: Cleaning Cooling 2004
+INFO: 2021-02-26 15:44:51,995: Cleaning Cooling 2005
+INFO: 2021-02-26 15:44:52,014: Cleaning Cooling 2006
+INFO: 2021-02-26 15:44:52,032: Cleaning Cooling 2007
+INFO: 2021-02-26 15:44:52,054: Cleaning Cooling 2008
+INFO: 2021-02-26 15:44:52,073: Cleaning Cooling 2009
+INFO: 2021-02-26 15:44:52,093: Cleaning Cooling 2010
+INFO: 2021-02-26 15:44:52,111: Cleaning Cooling 2011
+INFO: 2021-02-26 15:44:52,130: Cleaning Cooling 2012
+INFO: 2021-02-26 15:44:52,150: Cleaning Cooling 2013
+INFO: 2021-02-26 15:44:52,169: Cleaning Cooling 2014
+INFO: 2021-02-26 15:44:52,189: Cleaning Cooling 2015
+INFO: 2021-02-26 15:44:52,206: Cleaning Cooling 2016
+INFO: 2021-02-26 15:44:52,226: Cleaning Cooling 2017
+INFO: 2021-02-26 15:44:52,244: Cleaning Cooling 2018
+INFO: 2021-02-26 15:44:52,263: Cleaning Cooling 2019
+INFO: 2021-02-26 15:44:52,283: Cleaning Cooling 2020
+INFO: 2021-02-26 15:44:52,304: Cleaning Cooling 2021
+INFO: 2021-02-26 15:44:52,310: Writing Heating

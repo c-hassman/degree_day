@@ -1,0 +1,8 @@
+Product: Daily Heating Degree Days Forecast Based on NDFD Data Issued 0000UTC 20210211
+Regions: CPC::Regions::StatesCONUS
+Weights: Population
+Region|20210211|20210212|20210213|20210214|20210215|20210216|20210217|Total
+AL|8|16|18|24|22|26|24|138
+AR|36|37|39|45|48|46|40|291
+AZ|8|7|9|12|14|11|12|73
+
